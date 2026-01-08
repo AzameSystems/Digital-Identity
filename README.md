@@ -1,2 +1,2 @@
 # Digital-Identity
-Private Digital Life &amp; Security
+System for privatizing & securing digital life 
